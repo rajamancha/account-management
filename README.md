@@ -47,7 +47,6 @@ DATABASE_CLUSTER=<cluster name>
 
 ```
     npm run dev
-    yarn dev
 ```
 The server will start running on the specified port (default: 8080).
 
@@ -65,4 +64,4 @@ The server will start running on the specified port (default: 8080).
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js
 - MongoDB: NoSQL document database
 - Mongoose: MongoDB object modeling for Node.js
-- Other dependencies: [List any other major dependencies or libraries used]
+- Other dependencies
